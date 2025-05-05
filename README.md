@@ -76,11 +76,23 @@ Em seguida, adicione o arquivo gerado `index.html` no seu fork.
 
 Por fim, responda as questões abaixo no seu `fork`: 
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
+1. Repositório selecionado: https://github.com/fastapi/fastapi
 
-2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
-  
-3. Explicação: <EXPLICACAO_AQUI>
+2. Gráfico selecionado: Function Parameters
+   
+4. Explicação:  typed_parameter: Crescimento expressivo entre 2022 e 2024, passando de 600 para mais de 2000. Indica forte adoção de tipagem estática.
 
+typed_default_parameter: Crescimento constante até 2023, depois estagna. Pode refletir preferência por funções mais diretas, sem defaults.
+
+identifier: Aumento leve e queda em 2025 — pode indicar consolidação do código.
+
+keyword_separator: Crescimento discreto, possivelmente pela adoção de funções com argumentos nomeados obrigatórios.
+
+comment: Quase ausente até 2023, depois pequeno aumento. Sugere maior atenção à documentação recente.
+O salto em typed_parameter e o uso crescente de keyword_separator refletem boas práticas modernas de Python: código mais claro, seguro e validável estaticamente.
+
+A estagnação de typed_default_parameter pode indicar mudança de estilo para funções mais enxutas.
+
+Pode ter ocorrido refatoração significativa entre 2022–2024, influenciada por ferramentas ou políticas de qualidade de código.
 
 
